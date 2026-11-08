@@ -22,7 +22,7 @@
 
 ## `01` — THE PERSON BEHIND THE CODE
 
-### Hey, I'm Salman! 👋
+### Hey, I'm Salman! 
 
 **BS Artificial Intelligence Student | Aspiring AI Engineer**
 
@@ -239,9 +239,6 @@ I'm always interested in technology, new ideas, and meaningful collaborations.
 <a href="https://github.com/salmannn01">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
-
-<!-- Add your LinkedIn profile URL below -->
-
 
 <a href="linkedin.com/in/salman-mustafa-958326260/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
