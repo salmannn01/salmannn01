@@ -24,7 +24,7 @@
 ### 🔥 Core Tech Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript |
+| **Languages** | Python, JavaScript, PHP |
 | **Automation & AI** | Custom Pipelines, Manus AI, API Integrations |
 | **Tools** | Git, GitHub, VS Code |
 
