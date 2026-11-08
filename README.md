@@ -1,37 +1,32 @@
-<div align="center">
-  <h1>👋 Hi, I'm Salman Mustafa</h1>
-  <h3>💻 Software Developer & Tech Enthusiast based in Karachi, Pakistan</h3>
-  
-  <p>
-    <a href="https://twitter.com/salman_shah0" target="_blank">
-      <img src="https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://instagram.com/salman._.shahh" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-  </p>
-</div>
+# 👋 Hey, I'm Salman Mustafa
+
+### 💻 Software Developer & Tech Enthusiast
+
+[![X Badge](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/salman_shah0)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/salman._.shahh)
 
 ---
 
-### 🔭 About Me
-* 🌱 I’m constantly exploring new technologies, software automation, and building cool projects.
-* 📍 Based in **Karachi, Pakistan**.
-* ⚡ Fun fact: I love finding smart-work shortcuts and building automated solutions.
+### 🛠️ Tech Stack & Tools
+
+* **Languages & Scripting:** Python, JavaScript, HTML/CSS
+* **Automation & AI:** Manus AI, Custom Workflows, API Integrations
+* **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmannn01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Salman's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannn01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmannn01&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmannn01&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### ⚡ Profile Visitors
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmannn01&style=flat-square&color=blueviolet" alt="Profile Visitor Count" />
-</div>
+### 🐍 GitHub Contribution Snake
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+---
+
+### ⚡ Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=salmannn01&style=flat-square&color=blueviolet)
