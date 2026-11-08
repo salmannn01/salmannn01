@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Salman+%F0%9F%91%8B;Robotics+%26+Automation+Engineer+%F0%9F%A4%96;Building+Smart+Systems+%26+AI+Pipelines+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Salman+%F0%9F%91%8B;Automating+Workflows+%26+AI+Pipelines+%E2%9A%A1;Building+The+Future+Of+Code+%F0%9F%9A%80" />
 </p>
 
+<!-- Animated Cyber Banner Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,15,30&height=4&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30&height=120&section=header&text=Welcome%20To%20My%20Digital%20Workspace&fontSize=22&fontColor=00ffcc&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -16,13 +17,20 @@
 
 ### ⚡ What I Do In The Matrix
 
-> *"Bridging the gap between software logic and physical automation—building systems that think, move, and execute."*
+> *"Turning manual grinding into fully autonomous, high-octane workflows."*
 
-* 🤖 **Robotics & Embedded:** Designing intelligent hardware systems, sensor integration, and microcontrollers.
-* 🧠 **AI & Workflow Automation:** Deploying autonomous multi-step agents and high-octane data pipelines.
-* 🎯 **B2B Growth Systems:** Scalable lead extraction, verification, & smart outreach architectures.
+* 🧠 **AI & Automation:** Building intelligent multi-step agents & workflow engines.
+* 🎯 **B2B Growth Systems:** Scalable lead extraction, verification, & outreach architectures.
 * 🛠️ **Tech Stack Arsenal:** 
-  `Python` • `C/C++` • `ROS / Robotics` • `Embedded Systems` • `APIs` • `n8n` • `Manus AI`
+  `Python` • `JavaScript` • `APIs` • `Web Scraping` • `n8n` • `Manus AI`
+
+---
+
+### 💻 Interactive Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,git,github,vscode,linux,postman,docker&theme=dark" />
+</p>
 
 ---
 
@@ -39,14 +47,14 @@
 
 | Mission | Status | Intel / Tech |
 | :--- | :---: | :--- |
-| **[Robo-Core](https://github.com/salmannn01)** | 🟢 *Active* | Embedded control systems & hardware-software automation interface. |
 | **[Pipeline-X](https://github.com/salmannn01)** | 🟢 *Active* | Automated high-intent lead mining & verification engine. |
 | **[WebAudit-Bot](https://github.com/salmannn01)** | 🟢 *Active* | Autonomous website scanner & hyper-personalized outreach generator. |
 
 ---
 
+<!-- Animated Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,15,0&height=4&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,0&height=80&section=footer" />
 </p>
 
 <p align="center">
