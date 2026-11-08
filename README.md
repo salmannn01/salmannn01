@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102B46,100:00D9FF&height=230&section=header&text=SALMAN&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20BEYOND%20THE%20ORDINARY&descAlignY=60&descSize=15&animation=fadeIn" />
@@ -243,11 +242,11 @@ I'm always interested in technology, new ideas, and meaningful collaborations.
 
 <!-- Add your LinkedIn profile URL below -->
 
-<!--
-<a href="YOUR_LINKEDIN_URL">
+
+<a href="linkedin.com/in/salman-mustafa-958326260/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
--->
+
 
 <br/><br/>
 
