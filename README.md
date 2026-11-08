@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=py,js,git,github,vscode,html,css" />
 </p>
 
-[![X Badge](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/salman_shah0)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/salman-mustafa-958326260/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/salman._.shahh)
 
 </div>
