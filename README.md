@@ -1,56 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,28,35&height=180&section=header&text=Hey%20there!%20👋%20I'm%20Salman&fontSize=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&height=50&lines=Hi+there,+I'm+Salman+%F0%9F%91%8B;Robotics+%26+Automation+Engineer+%F0%9F%A4%96;Building+Smart+Systems+%26+AI+Pipelines+%E2%9A%A1" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,15,30&height=4&section=header" />
 </p>
 
 <div align="center">
-  <h3>🚀 Automating Workflows | Scaling Outreach | Building Smart Data Pipelines</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmannn01&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
-### ⚡ Quick Bio
+### ⚡ What I Do In The Matrix
 
-* 🔭 **Working on:** Advanced B2B lead generation & account-based marketing pipelines.
-* 🛠️ **Tech Stack:** Python, API Integrations, Web Scraping, and Intelligent AI Agents.
-* 💡 **Philosophy:** Smart-work and automation over manual execution.
-* 📫 **How to reach me:** [Your LinkedIn / Email Link]
+> *"Bridging the gap between software logic and physical automation—building systems that think, move, and execute."*
 
----
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,git,github,vscode,linux&theme=dark" />
-</p>
-
-* **Automation & AI:** Manus AI, n8n, Custom APIs
-* **Data & Scraping:** BeautifulSoup, Pandas, Automated Extractors
-* **Outreach & Infrastructure:** Custom cold email architectures & delivery systems
+* 🤖 **Robotics & Embedded:** Designing intelligent hardware systems, sensor integration, and microcontrollers.
+* 🧠 **AI & Workflow Automation:** Deploying autonomous multi-step agents and high-octane data pipelines.
+* 🎯 **B2B Growth Systems:** Scalable lead extraction, verification, & smart outreach architectures.
+* 🛠️ **Tech Stack Arsenal:** 
+  `Python` • `C/C++` • `ROS / Robotics` • `Embedded Systems` • `APIs` • `n8n` • `Manus AI`
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Used |
-| :--- | :--- | :--- |
-| **[Pipeline-X](https://github.com/salmannn01)** | Automated lead extraction and verification engine. | Python, APIs |
-| **[WebAudit-Bot](https://github.com/salmannn01)** | Automated business website audit & personalized outreach generator. | Python, Automation |
-
----
-
-### 📊 GitHub Stats
+### 📊 The Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmannn01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmannn01&theme=radical&hide_border=true&background=0d1117" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannn01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salmannn01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmannn01&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
+### 🚀 Mission Control (Featured Projects)
+
+| Mission | Status | Intel / Tech |
+| :--- | :---: | :--- |
+| **[Robo-Core](https://github.com/salmannn01)** | 🟢 *Active* | Embedded control systems & hardware-software automation interface. |
+| **[Pipeline-X](https://github.com/salmannn01)** | 🟢 *Active* | Automated high-intent lead mining & verification engine. |
+| **[WebAudit-Bot](https://github.com/salmannn01)** | 🟢 *Active* | Autonomous website scanner & hyper-personalized outreach generator. |
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=35,28,15,2,0&height=100&section=footer&text=Thanks%20for%20stopping%20by!%20✨&fontSize=20&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,15,0&height=4&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salmannn01&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
